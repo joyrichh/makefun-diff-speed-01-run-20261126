@@ -1,0 +1,1 @@
+Diff two texts faster: write a faster drop-in for make.fun's own makefun-diff 1.0.0 that answers exactly as it does on every case, then prove it on the practice set and beat the house baseline on CPU time.
